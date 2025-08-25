@@ -76,4 +76,32 @@ The dataset was generated via SQL, producing:
   - `device_type` (mobile, smart_tv, web)  
   - `previous_engagement` (push, email, etc.)  
   - `is_subscriber` (subscriber or not)  
-  - `last_access`, `access_time`, `avg_daily_minutes`, `location`, `age`   
+  - `last_access`, `access_time`, `avg_daily_minutes`, `location`, `age`
+ 
+---
+
+## 📷 Demo
+
+- Cluster selection screen
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/3db18d6f-294f-4003-b91a-89935c96bf6e" />
+
+
+- AI-generated campaign suggestion
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c5221170-d06c-4ec9-906c-73888488bc6b" />
+
+
+---
+
+## 🙌 Acknowledgments
+
+Developed during Hackday 2025 at Globo by:
+
+Laura Muller
+
+Bruno Farias
+
+Ighor Miranda
+
+Leonardo Belchior
+
+Jessyca Moraes
